@@ -1,10 +1,13 @@
 🎨🌸 Art Space App 🌸🎨
+
 Aplikasi sederhana berbasis **Kotlin & Jetpack Compose** yang menampilkan karya seni dengan tampilan elegan dan responsif 💖
 
 Potrait Mode:
+
 <img width="610" height="1280" alt="image" src="https://github.com/user-attachments/assets/94063501-87bb-40f3-97dd-52572cb47a08" />
 
-(Landscape Mode:
+Landscape Mode:
+
 <img width="1280" height="522" alt="image" src="https://github.com/user-attachments/assets/3ada4fab-9220-4fdd-a193-72b3e75c1bcc" />
 
 Tentang Aplikasi  
